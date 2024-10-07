@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Aleem Shaik
 
-I’m a Computer Science graduate, software developer, and cloud enthusiast!
-
-### 🚀 Main Programming Languages/Frameworks/Technologies:
+Computer Science graduate, software developer, and cloud enthusiast
+### Main Programming Languages/Frameworks/Technologies:
 <p>
     <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
@@ -19,7 +17,7 @@ I’m a Computer Science graduate, software developer, and cloud enthusiast!
     <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white">
 </p>
 
-### 📫 Get in Touch
+### 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/aleemshaik)
 
 **Portfolio:** [aleemshaik.com](https://aleemshaik.com)
