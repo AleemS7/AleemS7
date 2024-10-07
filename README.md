@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aleem Shaik
 
-I’m a Computer Science graduate, software developer, and cloud enthusiast! Passionate about building scalable, efficient, and innovative solutions.
+I’m a Computer Science graduate, software developer, and cloud enthusiast!
 
 ### 🚀 Main Programming Languages/Frameworks/Technologies:
 <p>
