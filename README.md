@@ -25,5 +25,5 @@ A containerized suite of network tools deployed on Azure Kubernetes Service (AKS
 ---
 
 ## 🌐 Connect with Me
-[📄 Portfolio](https://aleemshaik.com) | [💼 LinkedIn](https://linkedin.com/in/aleem-shaik-545153183) | [📧 Email](mailto:aleemushaik@gmail.com)
+[📄 Portfolio](https://www.aleemshaik.com) | [💼 LinkedIn](https://linkedin.com/in/aleem-shaik-545153183) | [📧 Email](mailto:aleemushaik@gmail.com)
 
