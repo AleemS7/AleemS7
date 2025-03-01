@@ -16,11 +16,13 @@ I’m **Aleem Shaik**, an IT professional passionate about cloud computing, auto
 ## 📂 Featured Projects
 ### [Azure Resume Project](https://github.com/AleemS7/azure-resume-python)  
 A cloud-native resume hosted on Azure Static Web Apps with a dynamic visitor counter powered by Azure Functions.  
-*Tech Stack*: Terraform, Azure Functions (Python), Cosmos DB  
+
 
 ### [DevOps Network Utilities](https://github.com/AleemS7/devops-network-utilities-v2)  
-A containerized suite of network tools deployed on Azure Kubernetes Service (AKS).  
-*Tech Stack*: Docker, Flask (Python), React Frontend  
+A containerized suite of network tools deployed on Azure Kubernetes Service (AKS). 
+
+### [Homelab](https://github.com/AleemS7/homelab)  
+A continuously evolving on-prem and cloud-integrated setup for networking, sysadmin, and container orchestration, with future expansions into multi-cloud and Kubernetes. 
 
 ---
 
