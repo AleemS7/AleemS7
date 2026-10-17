@@ -1,31 +1,20 @@
-# 👋 Hi there! Welcome to my GitHub
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Atlanta_Skyline_from_Mableton.jpg/1920px-Atlanta_Skyline_from_Mableton.jpg" alt="Atlanta skyline from Mableton" width="100%">
 
-I’m **Aleem Shaik**, an IT professional passionate about cloud computing, automation, and solving technical challenges. I specialize in deploying scalable infrastructure and automating workflows with modern tools.
+# Aleem Shaik
 
----
+Hi! I work in Georgia Power's Power Delivery Data & Technology group, where I build data pipelines and tools, support applications, and do whatever else helps our crews deliver power more safely and reliably. I'm interested in where technology is headed and motivated to help businesses adapt to it.
 
-## 🛠️ Technologies & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+B.S. in Computer Science from UGA, starting my M.S. in Computer Science at Georgia Tech in 2027.
 
----
-
-## 📂 Featured Projects
-### [Azure Resume Project](https://github.com/AleemS7/azure-resume-python)  
-A cloud-native resume hosted on Azure Static Web Apps with a dynamic visitor counter powered by Azure Functions.  
-
-
-### [DevOps Network Utilities](https://github.com/AleemS7/devops-network-utilities-v2)  
-A containerized suite of network tools deployed on Azure Kubernetes Service (AKS). 
-
-### [Homelab](https://github.com/AleemS7/homelab)  
-A continuously evolving on-prem and cloud-integrated setup for networking, sysadmin, and container orchestration, with future expansions into multi-cloud and Kubernetes. 
+## Stuff I've worked on (and am working on)
+| Repository | Description | Stack |
+| ---------- | ----------- | ----- |
+| SubPay (private) | Invoicing for a renovation company: QR uploads, AI invoice reading, QuickBooks sync | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| [TransitPulse ATL](https://github.com/AleemS7/transitpulse) | Tracks MARTA bus and rail delays from live feeds, with dashboards you can ask questions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| [Cinema E-Booking System](https://github.com/AleemS7/cinema-e-booking-system) | Movie ticket booking app built in a four person team at UGA | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Azure Resume (old) | Resume site with a serverless visitor counter | ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square) ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) |
+| DevOps Network Utilities (old) | Experimenting with containerized network tools on Azure Kubernetes Service | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) |
 
 ---
 
-## 🌐 Connect with Me
-[📄 Portfolio](https://www.aleemshaik.com) | [💼 LinkedIn](https://linkedin.com/in/aleem-shaik-545153183) | [📧 Email](mailto:aleemushaik@gmail.com)
-
+[Portfolio](https://www.aleemshaik.com) | [LinkedIn](https://linkedin.com/in/aleem-shaik-545153183) | [Email](mailto:aleemushaik@gmail.com)
