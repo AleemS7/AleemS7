@@ -18,4 +18,4 @@ B.S. in Computer Science from UGA, starting my M.S. in Computer Science at Georg
 
 ---
 
-[Portfolio](https://www.aleemshaik.com) | [LinkedIn](https://linkedin.com/in/aleem-shaik-545153183) | [Email](mailto:aleemushaik@gmail.com)
+[My Site](https://www.aleemshaik.com) | [LinkedIn](https://linkedin.com/in/aleem-shaik-545153183) | [Email](mailto:aleemushaik@gmail.com)
